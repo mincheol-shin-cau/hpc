@@ -5,25 +5,26 @@ This repository accompanies the article:
 > *Adaptive variable sampling model for performance analysis in high cache-performance computing environments*  
 > DOI: https://doi.org/10.1016/j.heliyon.2023.e16777
 
-Heliyon has informed the authors of its decision to retract the article. The authors acknowledge that certain mathematical expressions, derivations, algorithmic descriptions, pseudocode, terminology, figure labels, and explanatory passages in the published manuscript contain errors or ambiguities and require correction or clarification.
+Heliyon has informed the authors of its decision to retract the article. The authors disagree with the retraction and dispute the grounds for it.
 
-However, the authors dispute that these manuscript-level issues, by themselves, invalidate the experimental results or the core scientific conclusions of the study. Accordingly, the authors disagree with the retraction and dispute its grounds.
+The authors acknowledge that certain mathematical expressions and derivations, algorithmic descriptions and pseudocode, terminology, figure labels, and explanatory passages in the published manuscript require correction or clarification. However, the authors dispute that these issues, by themselves, establish that the experimental results or core scientific conclusions are invalid. The authors maintain that a detailed technical correction or corrigendum would have been a more appropriate response.
 
-### Scope and limitations of this repository
+### Purpose and limitations of this repository
 
-This repository is provided to support transparent and independent technical examination of the work. It includes:
+This repository is made available to support independent technical examination of the implementation and methodology. It provides:
 
-- the implementation and analysis code.
-- the software dependency information.
-- descriptions of the original hardware and operating-system environments.
-- the performance-measurement and analysis workflow.
-- instructions for collecting new measurements and rerunning the analysis.
+- Implementation and analysis code
+- Software dependency information
+- Descriptions of the experimental hardware and operating-system environments reported in the article
+- Guidance on measurement collection, data preparation, and analysis
 
-The original raw measurement dataset is no longer retained because of the time elapsed since the experiments and the applicable data-retention limitations. Therefore, this repository alone cannot reproduce the exact numerical results reported in the article from the original measurements.
+The original raw measurement dataset is no longer available to the authors. Consequently, this repository does not enable reproduction of the article’s reported numerical results from the original measurements.
 
-Nevertheless, the repository enables researchers to inspect the implemented computational workflow, evaluate the methodology, and perform an independent replication using newly collected data from the described or compatible computing environments. The authors welcome independent technical review of the code and methodology.
+The available materials allow researchers to inspect the computational workflow and provide a starting point for independent evaluation using newly collected data. Any such evaluation should document its experimental conditions and distinguish newly obtained results from those reported in the article. The availability of code alone does not establish that the original numerical results have been independently verified.
 
-This statement represents the authors’ position.
+The authors welcome independent technical review and specific feedback on the code, documentation, and methodology.
+
+This statement records the authors’ position and describes the scope of the available materials. It does not replace the journal’s official publication record.
 
 # Adaptive variable sampling for HPC performance analysis
 
