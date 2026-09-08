@@ -13,10 +13,10 @@ However, the authors dispute that these manuscript-level issues, by themselves, 
 
 This repository is provided to support transparent and independent technical examination of the work. It includes:
 
-- the implementation and analysis code;
-- the software dependency information;
-- descriptions of the original hardware and operating-system environments;
-- the performance-measurement and analysis workflow; and
+- the implementation and analysis code.
+- the software dependency information.
+- descriptions of the original hardware and operating-system environments.
+- the performance-measurement and analysis workflow.
 - instructions for collecting new measurements and rerunning the analysis.
 
 The original raw measurement dataset is no longer retained because of the time elapsed since the experiments and the applicable data-retention limitations. Therefore, this repository alone cannot reproduce the exact numerical results reported in the article from the original measurements.
