@@ -1,3 +1,30 @@
+## Publication status and authors’ statement
+
+This repository accompanies the article:
+
+> *Adaptive variable sampling model for performance analysis in high cache-performance computing environments*  
+> DOI: https://doi.org/10.1016/j.heliyon.2023.e16777
+
+Heliyon has informed the authors of its decision to retract the article. The authors acknowledge that certain mathematical expressions, derivations, algorithmic descriptions, pseudocode, terminology, figure labels, and explanatory passages in the published manuscript contain errors or ambiguities and require correction or clarification.
+
+However, the authors dispute that these manuscript-level issues, by themselves, invalidate the experimental results or the core scientific conclusions of the study. Accordingly, the authors disagree with the retraction and dispute its grounds.
+
+### Scope and limitations of this repository
+
+This repository is provided to support transparent and independent technical examination of the work. It includes:
+
+- the implementation and analysis code;
+- the software dependency information;
+- descriptions of the original hardware and operating-system environments;
+- the performance-measurement and analysis workflow; and
+- instructions for collecting new measurements and rerunning the analysis.
+
+The original raw measurement dataset is no longer retained because of the time elapsed since the experiments and the applicable data-retention limitations. Therefore, this repository alone cannot reproduce the exact numerical results reported in the article from the original measurements.
+
+Nevertheless, the repository enables researchers to inspect the implemented computational workflow, evaluate the methodology, and perform an independent replication using newly collected data from the described or compatible computing environments. The authors welcome independent technical review of the code and methodology.
+
+This statement represents the authors’ position.
+
 # Adaptive variable sampling for HPC performance analysis
 
 ## Setup
